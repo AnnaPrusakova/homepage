@@ -5,5 +5,3 @@ My very own personal website. Basically this is just a résumé.
 
 # Preview
 ![image](assets/images/preview.png)
-
-<hr />
